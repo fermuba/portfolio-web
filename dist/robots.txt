@@ -1,5 +1,0 @@
-
-User-agent: *
-Allow: /
-
-Sitemap: https://aether-astro-theme.netlify.app/sitemap-index.xml
