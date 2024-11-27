@@ -1,8 +1,8 @@
 export const isTransitionEnabled = true; // for enabling view transitions
 
-export const myName = 'John Doe'; // For name in main intro text
+export const myName = 'Fernando Mubarqui'; // For name in main intro text
 
-export const navLogoText = 'John Doe'; // navbar left-most logo text
+export const navLogoText = 'Fernando Mubarqui'; // navbar left-most logo text
 // bio for main section
 
 export const myBio = `A passionate web developer with a knack for creating dynamic and responsive web applications. With a background in computer science and a love for coding, I thrive on turning ideas into reality through technology.`;
