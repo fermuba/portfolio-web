@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Fernando Mubarqui — Data Scientist",
   author: "Fernando Mubarqui",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Based in Santiago, Argentina. I specialize in machine learning, data cleaning, and creating impactful visualizations using Power BI.",
   lang: "en",
   siteLogo: "/fernando-small.jpg",
   navLinks: [
@@ -13,11 +13,11 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+  //  { text: "Twitter", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/fermuba" },
+    { text: "Github", href: "https://github.com/fermuba" },
+  //  { text: "Youtube", href: "https://github.com/immois/astro-zen" },
+  //  { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
