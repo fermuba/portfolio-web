@@ -87,9 +87,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m a Data Scientist passionate about data analysis, Machine Learning, and Power BI. 
+      I’m Fernando Mubarqui, a Data Scientist passionate about data analysis, Machine Learning, and Power BI. 
       I love transforming data into practical solutions and tangible results. 
-      I combine technical expertise with an entrepreneurial mindset to create tailored solutions that optimize workflows, automate processes, and generate valuable insights. 
+      I combine technical expertise with an entrepreneurial mindset to create customized solutions that optimize workflows, automate processes, and generate valuable insights. 
       I also enjoy sharing knowledge and inspiring others as a data science instructor.
     `,
     image: "/fernando-big.jpg",
