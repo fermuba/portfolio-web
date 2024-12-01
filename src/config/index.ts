@@ -28,8 +28,8 @@ export const SITE_CONTENT: SiteContent = {
     name: "Fernando Mubarqui",
     specialty: "Data Scientist",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Based in Santiago, Argentina. I specialize in machine learning, data cleaning, and creating impactful visualizations using Power BI.",
+    email: "fermuba@msn.com",
   },
   experience: [
     {
@@ -87,9 +87,10 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      Hi, I’m a Data Scientist passionate about data analysis, Machine Learning, and Power BI. 
+      I love transforming data into practical solutions and tangible results. 
+      I combine technical expertise with an entrepreneurial mindset to create tailored solutions that optimize workflows, automate processes, and generate valuable insights. 
+      I also enjoy sharing knowledge and inspiring others as a data science instructor.
     `,
     image: "/fernando-big.jpg",
   },
