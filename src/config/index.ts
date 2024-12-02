@@ -72,26 +72,27 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      name: "Review Insights",
+      summary: "A data analytics platform designed to provide wineries and wine bars in the U.S. with insights into customer reviews. This project focuses on categorizing reviewers, analyzing scores, and highlighting key aspects of customer feedback to drive strategic decision-making in the wine industry.",
+      linkPreview: "https://review-insights.streamlit.app/", 
+      linkSource: "https://github.com/fermuba/proyectogrupal",
+      image: "/review-insights.png",
     },
-    {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
-    },
-    {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
-    },
+    
+//    {
+//      name: "Shopp App",
+//      summary: "An e-commerce platform that replicates Shopify's key features.",
+//      linkPreview: "/",
+//      linkSource: "https://github.com/immois/astro-zen",
+//      image: "/shopify-clon.png",
+//    },
+//    {
+//      name: "ClonTagram",
+//      summary: "A social network that replicates the features of Instagram",
+//      linkPreview: "/",
+//      linkSource: "https://github.com/immois/astro-zen",
+//      image: "/clone-ig.png",
+//    },
   ],
   about: {
     description: `
