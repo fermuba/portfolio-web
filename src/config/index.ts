@@ -34,7 +34,7 @@ export const SITE_CONTENT: SiteContent = {
   experience: [
     {
       company: "Bedu",
-      position: "Expert Data Scientist (Internship)",
+      position: "Expert Data Scientist",
       startDate: "Jan 2024",
       endDate: "Present",
       summary: [
